@@ -8,7 +8,7 @@ This project focuses on analyzing football match data using R. It includes data 
 - Generates insights about goals, wins/losses, referee decisions, team performance, and monthly trends.
 - Includes a conference-style PDF report summarizing all findings.
 
-## 📂 Repository Structure
+## 📂 Screenhots of the Project 
 
 
 
